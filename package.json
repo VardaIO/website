@@ -1,7 +1,7 @@
 {
   "name": "varda.io",
   "version": "1.0.0",
-  "description": "varda.io",
+  "description": "A Vue.js project",
   "author": "fuling <mon.samuel@qq.com>",
   "private": true,
   "scripts": {
@@ -10,7 +10,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "bulma": "^0.7.1",
+    "particles.js": "^2.0.0",
     "vue": "^2.5.2",
+    "vue-particles": "^1.0.9",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {

@@ -1,0 +1,19 @@
+.navbar-item img {
+    max-height: 4rem;
+}
+.navbar .navbar-burger{
+    padding-top: 4.1rem
+}
+.navbar a:hover {
+    color: #4a4a4a;
+}
+
+.hero-body .index-hero-title {
+    /* margin-top: -8rem     */
+}
+
+.hero-body .index-hero-subtitle {
+    /* color: black; */
+    margin-top: 4rem;
+    /* padding:2rem 18rem */
+}

@@ -1,6 +1,6 @@
 # varda.io
 
-> varda.io
+> A Vue.js project
 
 ## Build Setup
 
