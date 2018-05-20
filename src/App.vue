@@ -20,6 +20,12 @@
 	</div>
 	<div class="hero-body">
 		<div class="container has-text-centered">
+			<div class="is-hidden-desktop">
+				<br>
+				<br>
+				<br>
+				<br>
+			</div>
 			<h1 class="title index-hero-title">Varda, 可商业应用的区块链</h1>
 			<div class="columns is-centered index-hero-subtitle">
 				<div class="column">
@@ -57,7 +63,6 @@
 		</div>
 	</div>
 	</section>
-	sad
   <!-- <script src="./assets/particles.js"></script> -->
 </div>
 </template>
