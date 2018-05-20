@@ -12,7 +12,7 @@
 			</div>
 			<div id="navbarMenuHeroC" class="navbar-menu">
 				<div class="navbar-end">
-					<a class="navbar-item">服务</a><a class="navbar-item">文档</a><a class="navbar-item">更新</a>
+					<a class="navbar-item">服务</a><a class="navbar-item" href="https://github.com/VardaIO/varda/tree/master/docs/zh-cn">文档</a><a class="navbar-item" href="https://github.com/VardaIO/varda/commits/master">更新</a>
 				</div>
 			</div>
 		</div>
@@ -57,7 +57,7 @@
 			</div>
       <div class="columns is-centered" style="margin-top: 3rem">
         <div class="column">
-          <p><a class="button is-primary">开始区块链之旅</a></p> 
+          <p><a class="button is-primary" href="https://github.com/VardaIO/varda">开始区块链之旅</a></p> 
         </div>
       </div>
 		</div>
